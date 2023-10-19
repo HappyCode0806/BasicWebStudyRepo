@@ -1,4 +1,5 @@
-div {
-    color: red;
-    font-size: 100px;
-}
+* { color: green;}
+h1 { color: grey; }
+p { background: aqua; }
+#p1 { color: red; }
+h[id] { background: purple;}
