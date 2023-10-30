@@ -1,3 +1,4 @@
+// 간단한 로그인 프로그램 구현 - Javascript
 const userID = "Admin";
 const userPW = "TheMaster";
 
